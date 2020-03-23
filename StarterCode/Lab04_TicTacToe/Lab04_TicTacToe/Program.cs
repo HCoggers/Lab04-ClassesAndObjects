@@ -30,6 +30,7 @@ namespace Lab04_TicTacToe
             p2.Marker = "O";
 
             Game tictactoe = new Game(p1, p2);
+            tictactoe.Play();
 
             if (tictactoe.Winner != null)
                 return tictactoe.Winner.Name;
