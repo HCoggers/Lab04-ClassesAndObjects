@@ -10,6 +10,11 @@ namespace Lab04_TicTacToe
             string outcome = NewGame();
             Console.WriteLine($"The winner is: {outcome}");
         }
+
+        /// <summary>
+        /// Plays A two-person tic-tac-toe game in the console, using user input to determine a winner, if there is one.
+        /// </summary>
+        /// <returns>The winner, or a draw message</returns>
         public static string NewGame()
         {
             // TODO: Setup your game. Create a new method that creates your players and instantiates the game class. Call that method in your Main method.
