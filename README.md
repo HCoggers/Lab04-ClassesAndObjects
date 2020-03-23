@@ -32,9 +32,6 @@ Now, from Visual studio you can press the green play button or ```Shift-f5``` on
 ---
 
 ### Visuals
-![Image 1](./Assets/FirstTurn.PNG)
-![Image 1](./Assets/Penultimate.PNG)
-![Image 1](./Assets/WinnerWinner.PNG)
-![Image 1](./Assets/CatsGame.PNG)
-
+<img src="Assets/FirstTurn.PNG" alt="First Turn" height="120"/> <img src="Assets/Penultimate.PNG" alt="Almost Done" height="120"/>  
+<img src="Assets/WinnerWinner.PNG" alt="Raxy Won" height="132"/> <img src="Assets/CatsGame.PNG" alt="It's a Draw" height="132"/>
 ---
