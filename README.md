@@ -32,9 +32,9 @@ Now, from Visual studio you can press the green play button or ```Shift-f5``` on
 ---
 
 ### Visuals
-![Image 1](./Assets/FirstTurn.png)
-![Image 1](./Assets/Penultimate.png)
-![Image 1](./Assets/WinnerWinner.png)
-![Image 1](./Assets/CatsGame.png)
+![Image 1](./Assets/FirstTurn.PNG)
+![Image 1](./Assets/Penultimate.PNG)
+![Image 1](./Assets/WinnerWinner.PNG)
+![Image 1](./Assets/CatsGame.PNG)
 
 ---
