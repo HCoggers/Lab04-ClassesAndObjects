@@ -33,7 +33,7 @@ namespace Lab04_TicTacToe.Classes
 
 			//TODO: Complete this method and utilize the rest of the class structure to play the game.
 
-            /*
+			/*
              * Complete this method by constructing the logic for the actual playing of Tic Tac Toe. 
              * 
              * A few things to get you started:
@@ -47,6 +47,21 @@ namespace Lab04_TicTacToe.Classes
 
             Use any and all pre-existing methods in this program to help construct the method logic. 
              */
+			int turn = 1;
+			 while(!CheckForWinner(Board) && turn < 10)
+			{
+				Board.DisplayBoard();
+				SwitchPlayer();
+				NextPlayer().TakeTurn(Board);
+				turn++;
+			}
+
+			Board.DisplayBoard();
+			if (CheckForWinner(Board))
+				return NextPlayer();
+			else
+				return null;
+
 		}
 
 
@@ -84,7 +99,8 @@ namespace Lab04_TicTacToe.Classes
 
 				// TODO:  Determine a winner has been reached. 
 				// return true if a winner has been reached. 
-			
+				if (a == b && b == c)
+					return true;
 			}
 
 			return false;

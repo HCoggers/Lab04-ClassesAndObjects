@@ -1,0 +1,3 @@
+C:\Users\harry\Desktop\code\week1-dotnet\Lab04-ClassesAndObjects\StarterCode\Lab04_TicTacToe\TicTacToeTests\obj\Debug\netcoreapp3.1\TicTacToeTests.csprojAssemblyReference.cache
+C:\Users\harry\Desktop\code\week1-dotnet\Lab04-ClassesAndObjects\StarterCode\Lab04_TicTacToe\TicTacToeTests\obj\Debug\netcoreapp3.1\TicTacToeTests.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\code\week1-dotnet\Lab04-ClassesAndObjects\StarterCode\Lab04_TicTacToe\TicTacToeTests\obj\Debug\netcoreapp3.1\TicTacToeTests.AssemblyInfo.cs

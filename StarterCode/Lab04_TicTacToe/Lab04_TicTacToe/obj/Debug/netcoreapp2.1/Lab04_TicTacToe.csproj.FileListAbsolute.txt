@@ -1,0 +1,10 @@
+C:\Users\harry\Desktop\code\week1-dotnet\Lab04-ClassesAndObjects\StarterCode\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.csprojAssemblyReference.cache
+C:\Users\harry\Desktop\code\week1-dotnet\Lab04-ClassesAndObjects\StarterCode\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\code\week1-dotnet\Lab04-ClassesAndObjects\StarterCode\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.AssemblyInfo.cs
+C:\Users\harry\Desktop\code\week1-dotnet\Lab04-ClassesAndObjects\StarterCode\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\netcoreapp2.1\Lab04_TicTacToe.deps.json
+C:\Users\harry\Desktop\code\week1-dotnet\Lab04-ClassesAndObjects\StarterCode\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\netcoreapp2.1\Lab04_TicTacToe.runtimeconfig.json
+C:\Users\harry\Desktop\code\week1-dotnet\Lab04-ClassesAndObjects\StarterCode\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\netcoreapp2.1\Lab04_TicTacToe.runtimeconfig.dev.json
+C:\Users\harry\Desktop\code\week1-dotnet\Lab04-ClassesAndObjects\StarterCode\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\netcoreapp2.1\Lab04_TicTacToe.dll
+C:\Users\harry\Desktop\code\week1-dotnet\Lab04-ClassesAndObjects\StarterCode\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\netcoreapp2.1\Lab04_TicTacToe.pdb
+C:\Users\harry\Desktop\code\week1-dotnet\Lab04-ClassesAndObjects\StarterCode\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.dll
+C:\Users\harry\Desktop\code\week1-dotnet\Lab04-ClassesAndObjects\StarterCode\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.pdb
