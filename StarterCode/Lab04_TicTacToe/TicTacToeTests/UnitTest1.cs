@@ -46,5 +46,11 @@ namespace TicTacToeTests
             Position testP = Player.PositionForNumber(3);
             Assert.True(0 == testP.Row && 2 == testP.Column);
         }
+
+        [Fact]
+        public void CannotConvertIndexAboveNine()
+        {
+            Assert.Null(Player.PositionForNumber(10));
+        }
     }
 }
