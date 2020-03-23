@@ -18,9 +18,33 @@ namespace TicTacToeTests
             testBoard.GameBoard[0, 0] = "X";
             testBoard.GameBoard[0, 1] = "X";
             testBoard.GameBoard[0, 2] = "X";
-            
-            Assert.True(testGame.CheckForWinner(testBoard));
 
+            Assert.True(testGame.CheckForWinner(testBoard));
+        }
+
+        [Fact]
+        public void CanSwitchPlayers()
+        {
+            Player p1 = new Player
+            {
+                IsTurn = true
+            };
+            Player p2 = new Player
+            {
+                IsTurn = false
+            };
+            Game testGame = new Game(p1, p2);
+
+            testGame.SwitchPlayer();
+
+            Assert.Equal(p2, testGame.NextPlayer());
+        }
+
+        [Fact]
+        public void CanConvertIndexToPosition()
+        {
+            Position testP = Player.PositionForNumber(3);
+            Assert.True(0 == testP.Row && 2 == testP.Column);
         }
     }
 }
